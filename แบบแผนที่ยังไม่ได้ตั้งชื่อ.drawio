@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T10:58:52.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="MQUXYxCti-Eyj2EAX2RS" type="github"><diagram id="5KPREFArvacQSoD-2Kr-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-13T11:07:24.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="dpCFutyidM0P2bGY_9um" type="github">
+  <diagram id="AIloGWg_uY2SyxGCWEsT" name="หน้า-1">
+    <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FDDE01xMVj73WtKF68cS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="FDDE01xMVj73WtKF68cS-1" target="FDDE01xMVj73WtKF68cS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FDDE01xMVj73WtKF68cS-1" value="เริ่มต้น" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;fillColor=#FFCCE6;gradientColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="200" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FDDE01xMVj73WtKF68cS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="FDDE01xMVj73WtKF68cS-2" target="FDDE01xMVj73WtKF68cS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FDDE01xMVj73WtKF68cS-2" value="ตื่นนอนตอนเช้า" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e6d0de;strokeWidth=2;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="200" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FDDE01xMVj73WtKF68cS-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="FDDE01xMVj73WtKF68cS-6" target="FDDE01xMVj73WtKF68cS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FDDE01xMVj73WtKF68cS-6" value="ทำกับข้าวไปวิทยาลัย" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;rounded=1;strokeWidth=2;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FDDE01xMVj73WtKF68cS-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="FDDE01xMVj73WtKF68cS-8" target="FDDE01xMVj73WtKF68cS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FDDE01xMVj73WtKF68cS-8" value="ไม่ทำ" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;rounded=1;strokeWidth=2;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="380" y="235" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FDDE01xMVj73WtKF68cS-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;exitX=0.583;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.983;entryY=0.283;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FDDE01xMVj73WtKF68cS-8" target="FDDE01xMVj73WtKF68cS-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="150" as="sourcePoint" />
+            <mxPoint x="490" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="200" />
+              <mxPoint x="320" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FDDE01xMVj73WtKF68cS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="FDDE01xMVj73WtKF68cS-11" target="FDDE01xMVj73WtKF68cS-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FDDE01xMVj73WtKF68cS-11" value="ลงจากหอไปเรียน" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;strokeWidth=2;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FDDE01xMVj73WtKF68cS-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="FDDE01xMVj73WtKF68cS-13" target="FDDE01xMVj73WtKF68cS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FDDE01xMVj73WtKF68cS-13" value="ไปเข้าแถวเคารพธงชาติ" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFB366;strokeColor=#6c8ebf;rounded=1;strokeWidth=2;gradientColor=#99FFCC;" vertex="1" parent="1">
+          <mxGeometry x="420" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FDDE01xMVj73WtKF68cS-15" value="สิ้นสุด" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#FF6666;strokeColor=#6c8ebf;rounded=1;strokeWidth=2;gradientColor=#99FFCC;" vertex="1" parent="1">
+          <mxGeometry x="420" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
